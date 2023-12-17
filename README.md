@@ -5,16 +5,6 @@
 ## Project-1 Implementation
 > Investigating The Foremost Factors Determining Artists’ Success
 
-### Group Name
-> Chestnut
-
-### Work distribution
-### Implementation
-- Disha Shetty (dshetty3@binghamton.edu)
-- Yashaswi Hasarali (yhasara1@binghamton.edu)
-### Documentation
-- Om Fale (ofale1@binghamton.edu)
-
 
 ### Introduction
 
